@@ -1,0 +1,42 @@
+body { margin:0; padding:0;
+  padding-bottom: 40px; }
+#map { width:800px; height: 350px; margin-bottom: 30px}
+.graetzl {
+  font-size: 20px;
+  color: #006666;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+.graetzl span {
+  font-size: 14px;
+  color: #006666;
+  margin-right: 20px;
+  border-right: 1px dotted #0B486B;
+  padding-right: 20px;
+}
+
+.codeOut {
+  margin-left: 40px;
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  width: 700px;
+  height: 150px;
+  display: block;
+  word-wrap: break-word;
+  overflow-y: scroll;
+
+}
+.addressField {
+  padding: 10px 20px;
+  font-size: 17px;
+  margin-left: 40px;
+  color: #0B486B;
+}
+.sendAddress {
+  padding: 10px 20px;
+  background-color: #A1CEB4;
+  border: 1px solid #0B486B;
+  color: #0B486B;
+
+}
